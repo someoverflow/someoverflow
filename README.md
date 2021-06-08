@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SomeOverflow</h1>
 <h3 align="center">A stupid developer from Germany</h3>
 
+- 🔭 I’m currently working on [Minecraft Plugins](github.com/cookieleaks)
+
 - 💬 Ask me about **Java and C#**
 
 - 📫 How to reach me **master@dounutmail.de**
