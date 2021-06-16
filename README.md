@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **master@dounutmail.de**
 
-- ⚡ Fun fact **I like cookies**
+- ⚡ **I like cookies**
 
 
 <h3 align="left">Languages and Tools:</h3>
