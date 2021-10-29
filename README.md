@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue // Html - CSS // JavaScript**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** | Discord **SomeOverflow#3434**
 
 - 📫 How to reach me **someoverflow@dounutmail.de**
 
