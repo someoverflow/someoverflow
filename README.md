@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [SomeWorkflow](https://someworkflow.de)
 
-- 🌱 I’m currently learning **Vue // Html - CSS // JavaScript**
+- 🌱 I’m currently learning **MySQL**
 
-- 💬 Ask me about **Java** | Discord **SomeOverflow#3434**
+- 💬 Ask me about **Java**
 
-- 📫 How to reach me **someoverflow@dounutmail.de**
+- 📫 How to reach me **someoverflow@dounutmail.de** | Discord **SomeOverflow#3434**
 
 - ⚡ Fun fact **I like donuts**
 
