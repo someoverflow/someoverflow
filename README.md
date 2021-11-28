@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **someoverflow@dounutmail.de** | Discord **SomeOverflow#3434**
+- 📫 How to reach me Discord **SomeOverflow#3434**
 
 - ⚡ Fun fact **I like donuts**
 
