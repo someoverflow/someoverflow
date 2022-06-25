@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SomeWorkflow](https://www.someworkflow.de)
 
-- 👨‍💻 All of my projects are available at [https://www.someworkflow.de/projects.html](www.someworkflow.de/projects.html)
+- 👨‍💻 All of my projects are available at [someworkflow.de/projects.html](https://www.someworkflow.de/projects.html)
 
 - ⚡ Fun fact **I am stoopid**
 
