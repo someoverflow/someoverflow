@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [SomeWorkflow](https://www.someworkflow.de)
 
-- 🌱 I’m currently learning **Blender, 3D-Modeling**
-
-- 👨‍💻 All of my projects are available at [https://www.someworkflow.de/projects](https://www.someworkflow.de/projects)
-
-- 💬 Ask me about **Java, Minecraft**
+- 👨‍💻 All of my projects are available at [https://www.someworkflow.de/projects.html](www.someworkflow.de/projects.html)
 
 - ⚡ Fun fact **I am stoopid**
 
