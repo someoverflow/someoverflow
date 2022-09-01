@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [Website](http://www.someworkflow.de/projects.html)
+* 🖥️  See my portfolio at [my website](http://www.someworkflow.de/projects.html)
 * ✉️  You can contact me at [someoverflow@someworkflow.de](mailto:someoverflow@someworkflow.de)
-* 🚀  I'm currently working on [SomeWorkflow](http://www.someworkflow.de)
+* 🚀  I'm currently working on [someworkflow](http://www.someworkflow.de)
 * ⚡  I like trees.
 
 <a href="https://www.twitch.tv/someoverflow" target="_blank" rel="noreferrer"><img
@@ -25,6 +25,7 @@ src="https://img.shields.io/twitch/status/someoverflow?logo=twitchsx&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/765980146875760703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SomeOverflow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14817388/someoverflow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/someoverflow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
