@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [my website](http://www.someworkflow.de/projects.html)
+* 🖥️  See my portfolio at [my website](https://www.someworkflow.de/#projects)
 * ✉️  You can contact me at [someoverflow@someworkflow.de](mailto:someoverflow@someworkflow.de)
 * 🚀  I'm currently working on [someworkflow](http://www.someworkflow.de)
 * ⚡  I like trees.
