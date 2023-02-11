@@ -7,8 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [someworkflow](http://www.someworkflow.de)
 * ⚡  I like trees.
 
-<a href="https://www.twitch.tv/someoverflow" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/someoverflow?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
 
 <p align="left">
